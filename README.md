@@ -11,7 +11,7 @@ Desenvolvedor Web Full Stack.
 
 <h3>Informations</h3>
 <ul>
-<li><strong>Full Name</strong>:Marcos Vinícius Farias Mendes</li>
+<li><strong>Full Name</strong>: Marcos Vinícius Farias Mendes</li>
 <li><strong>Age</strong>: 25</li>
 <li><strong>City</strong>: Pernambuco - PE</li>
 <li>
