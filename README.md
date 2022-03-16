@@ -64,7 +64,7 @@ alt=""
 
 <ul>
 <li>
-<a href="https://marcos-mendes.netlify.app/">Portifólio<a/>
+<a href="https://marcos-mendes.netlify.app/" target="_blank">Portifólio <a/>
 <li/>
 <ul/>
 
