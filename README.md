@@ -66,7 +66,7 @@ alt=""
 
 
 
-<div style="display: flex">
+<div style="grid">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Mendess&show_icons=true&theme=github_dark" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Mendess&layout=compact&theme=github_dark&hide=php" />
 <div>
