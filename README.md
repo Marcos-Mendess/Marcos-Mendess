@@ -15,6 +15,8 @@ Desenvolvedor Web Full Stack.
 <li><strong>Age</strong>: 25</li>
 <li><strong>City</strong>: Pernambuco - PE</li>
 <li>
+<a href="https://marcos-mendes.netlify.app/" target="_blank">Portifólio <a/>
+<li/>
 <strong>Web Stack</strong><br><br>
 <span>
 <img
@@ -62,22 +64,14 @@ alt=""
 </ul>
 
 
-<ul>
-<li>
-<a href="https://marcos-mendes.netlify.app/" target="_blank">Portifólio <a/>
-<li/>
-<ul/>
 
 
+<div style="display: flex">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Mendess&show_icons=true&theme=github_dark" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Mendess&layout=compact&theme=github_dark&hide=php" />
+<div>
 
-
-
-
-
-
-
-
-
+  <br/>
 
 
 
