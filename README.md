@@ -4,8 +4,8 @@
 <h3>Overview</h3>
 <p>
 Meu nome é Marcos, atualmente moro em Recife. Sou estudante de engenharia de produção pela Universidade Católica de Pernambuco.
-  Desde cedo sempre fui interessado por tecnologia mas algumas escolhas me guiaram para a engenharia após a época do colégio, agora estou de volta no caminho para me tornar
-Desenvolvedor Web Full Stack.
+  Desde cedo sempre fui interessado por tecnologia mas algumas escolhas me guiaram para a engenharia após a época do colégio, atualmente estou trabalhando na Justa Soluções Financeiras como 
+Desenvolvedor Web Front-End.
 </p>
 
 
