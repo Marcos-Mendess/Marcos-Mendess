@@ -3,7 +3,7 @@
 
 <h3>Overview</h3>
 <p>
-Meu nome é Marcos, atualmente moro em Recife. Sou estudante de Análise de desenvolviemnto e sistemas pelo Centro Universitário Joaquim Nabuco.
+Meu nome é Marcos, atualmente moro em Recife. Sou estudante de Análise e desenvolvimento de sistemas pelo Centro Universitário Joaquim Nabuco.
   Desde cedo sempre fui interessado por tecnologia mas algumas escolhas me guiaram para a engenharia após a época do colégio, atualmente estou trabalhando na Justa Soluções Financeiras como 
 Desenvolvedor Web Front-End.
 </p>
