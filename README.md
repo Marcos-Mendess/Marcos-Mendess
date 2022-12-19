@@ -3,9 +3,8 @@
 
 <h3>Overview</h3>
 <p>
-Meu nome é Marcos, atualmente moro em São Paulo. Sou estudante de Análise e desenvolvimento de sistemas pelo Centro Universitário Joaquim Nabuco e formado em Engenharia de Produção pela Universidade Católica de Pernambuco.
-  Desde cedo sempre fui interessado por tecnologia mas algumas escolhas me guiaram para a engenharia após a época do colégio, atualmente estou trabalhando na Justa Soluções Financeiras como 
-Desenvolvedor Web Front-End.
+My name is Marcos, I currently live in São Paulo. I am a student of Systems Analysis and Development at Centro Universitário Joaquim Nabuco and graduated in Production Engineering at Universidade Católica de Pernambuco. Since early I was always interested in technology but some choices guided me to engineering after high school, currently I'm working at Justa Soluções Financeiras as a Front-End Web Developer.
+
 </p>
 
 
